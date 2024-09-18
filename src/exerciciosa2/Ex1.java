@@ -37,6 +37,5 @@ public class Ex1 {
         for (int numero : numeros) {
             System.out.print(numero + " ");
         }
-
     }
 }
