@@ -9,7 +9,7 @@ public class Ex6 {
         int horas = leitor.nextInt();
         int segundos = horas * 3600;
 
-        System.out.println(horas + " horas são equivalentes a " + segundos + " segundos.");
+        System.out.println(horas + " horas são iguais a " + segundos + " segundos.");
         leitor.close();
     }
 }
